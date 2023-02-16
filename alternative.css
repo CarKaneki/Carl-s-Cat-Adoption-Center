@@ -1,3 +1,10 @@
 h1{
   color: Dark Purple;
 }
+body {
+ background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+}
+main{
+background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+}
+
