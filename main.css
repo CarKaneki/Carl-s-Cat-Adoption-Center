@@ -11,7 +11,7 @@ body {
 }
 
 main {
-   background-color: var(--bg-color);
+  background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);
    margin: 0;
    padding: 5px 10px;
 }
