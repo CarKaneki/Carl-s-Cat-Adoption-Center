@@ -2,7 +2,7 @@
    --accent-color: #000080;
    --accent-dark-color: #EF2B2F;
    --font-color: #000080;
-   --bg-color: #CAEBF2;
+   --bg-color: background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet);;
 }
 
 body {
