@@ -1,7 +1,7 @@
 :root {
    --accent-color: #FF3B3F;
    --accent-dark-color: #EF2B2F;
-   --font-color: #595959;
+   --font-color: #000080;
    --bg-color: #CAEBF2;
 }
 
@@ -109,6 +109,4 @@ nav li a:hover {
 #advertisement:hover {
    transform: scale(1.2, 1.2);
 }
-h1{
-  color: #000080;
-}
+
