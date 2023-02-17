@@ -1,18 +1,25 @@
 h1{
-  color: darkpurple;
+  font-color: darkpurple;
 }
 body {
  background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
-  padding 20px 20px;
+  padding: 20px 20px;
   margin: none;
 }
 main{
 background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+  padding: 20px 20px;
+  margin: none;
 }
+
 .feature{
 background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+  padding: 20px 20px;
+  margin: none;
 }
 .feature-right{
 background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+  padding: 20px 20px;
+  margin: none;
 }
 
