@@ -1,11 +1,11 @@
 
 body {
-  background: repeating-radial-gradient(pink, lightblue, lightgreen, 20%);
+  background: repeating-radial-gradient(pink, lightblue, lightgreen 20%);
   padding: 20px 20px;
   margin: 10px;
 }
 main {
-background: repeating-radial-gradient(pink, yellow, lightblue, 20%);
+background: repeating-radial-gradient(pink, yellow, lightblue 20%);
   padding: 20px 20px;
   margin: 10px;
 }
@@ -13,16 +13,16 @@ background: repeating-radial-gradient(pink, yellow, lightblue, 20%);
   font-color: darkpurple;
 }
 .feature {
-background: repeating-radial-gradient(yellow, lightblue, lightgreen, 20%);
+background: repeating-radial-gradient(yellow, lightblue, lightgreen 20%);
   padding: 20px 20px;
   margin: 10px;
 }
 .feature-right {
-background: repeating-radial-gradient(pink, yellow, lightgreen, 20%);
+background: repeating-radial-gradient(pink, yellow, lightgreen 20%);
   padding: 20px 20px;
   margin: px;
 }
 .feature > table{
- background: repeating-radial-gradient(pink, yellow, lightblue, 20%);
+ background: repeating-radial-gradient(pink, yellow, lightblue 20%);
 }
 
