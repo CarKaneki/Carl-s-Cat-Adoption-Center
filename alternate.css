@@ -28,4 +28,11 @@ background: repeating-radial-gradient(pink, yellow, lightgreen 20%);
   padding 2px 20px;
   margin 2px;
 }
+ ul > li{
+   Background-color: magenta; 
+}
+a::visited{
+color:darkblue;
+}
+
 
