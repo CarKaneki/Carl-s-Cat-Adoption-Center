@@ -38,6 +38,10 @@ nav ul {
    padding: 2px;
    margin: 1px;
 }
+nav li a:hover {
+   color: white;
+   background-color: background: linear-gradient(purple,black);    
+}
 a::visited{
 color:darkblue;
 }
