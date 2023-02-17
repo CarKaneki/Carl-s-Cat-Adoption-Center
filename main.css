@@ -85,28 +85,6 @@ nav li a:hover {
    margin-left: 12px;
 }
 
-@keyframes lowerAd {
-   from { top: -80px; }   
-   to { top: 40px; }
+td {
+   font-size: 11px;
 }
-
-#advertisement {
-   animation-name: lowerAd;
-   animation-duration: 1s;
-   animation-delay: 2s;
-   animation-fill-mode: forwards;      
-   position: fixed;
-   right: 30px;
-   top: -80px;
-   width: 100px;
-   background: linear-gradient(lightgreen, white);
-   box-shadow: 5px 5px;
-   padding: 10px;
-   border-radius: 4px;   
-   transition: all 200ms ease-in-out;  
-}
-
-#advertisement:hover {
-   transform: scale(1.2, 1.2);
-}
-
