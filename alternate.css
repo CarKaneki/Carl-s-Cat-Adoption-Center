@@ -29,7 +29,7 @@ background: repeating-radial-gradient(pink, yellow, lightgreen 20%);
   margin 2px;
 }
  ul > li{
-  background: repeating-linear-gradient(to right, blue, yellow, green 20%);
+  background: repeating-linear-gradient(to right, red, yellow, green 20%);
 }
 a::visited{
 color:darkblue;
