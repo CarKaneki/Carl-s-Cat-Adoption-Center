@@ -12,7 +12,7 @@ background: repeating-radial-gradient(pink, yellow, lightblue 20%);
 }
  header #H1 {
   font-color: purple;
-   background-color:background: linear-gradient(to bottom right, black, red);
+   background-color: background: linear-gradient(to bottom right, black, red);
 }
 .feature {
 background: repeating-radial-gradient(yellow, lightblue, lightgreen 20%);
