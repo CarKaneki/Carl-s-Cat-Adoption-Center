@@ -1,11 +1,11 @@
 
 body {
- background-color: background: repeating-radial-gradient(pink, lightblue, lightgreen 20%);
+  background: repeating-radial-gradient(pink, lightblue, lightgreen 20%);
   padding: 20px 20px;
   margin: 10px;
 }
 main {
-background-color: background: repeating-radial-gradient(pink, yellow, lightblue, 20%);
+background: background: repeating-radial-gradient(pink, yellow, lightblue, 20%);
   padding: 20px 20px;
   margin: 10px;
 }
@@ -21,5 +21,8 @@ background-color: background: repeating-radial-gradient(yellow, lightblue, light
 background-color: background: repeating-radial-gradient(pink, yellow, lightgreen 20%);
   padding: 20px 20px;
   margin: px;
+}
+.feature > table{
+ background: background: repeating-radial-gradient(pink, yellow, lightblue, 20%);
 }
 
