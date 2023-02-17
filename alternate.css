@@ -30,6 +30,8 @@ background: repeating-radial-gradient(pink, yellow, lightgreen 20%);
 }
  ul > li{
   background: repeating-linear-gradient(to right, red, yellow, green 20%);
+   padding: 2px;
+   margin: 1px;
 }
 a::visited{
 color:darkblue;
