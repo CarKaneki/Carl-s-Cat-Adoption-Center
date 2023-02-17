@@ -9,4 +9,7 @@ body {
 main{
 background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
 }
+.feature{
+ background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+}
 
