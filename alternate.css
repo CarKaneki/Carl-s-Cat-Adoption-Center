@@ -1,4 +1,4 @@
-header > h1 {
+header  h1 {
   font-color: darkpurple;
 }
 body {
@@ -6,18 +6,18 @@ body {
   padding: 20px 20px;
   margin: none;
 }
-main{
+main {
 background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
   padding: 20px 20px;
   margin: none;
 }
 
-.feature{
+.feature {
 background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
   padding: 20px 20px;
   margin: none;
 }
-.feature-right{
+.feature-right {
 background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
   padding: 20px 20px;
   margin: none;
