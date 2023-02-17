@@ -1,25 +1,25 @@
 
 body {
- background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+ background-color: background: repeating-radial-gradient(pink, lightblue, lightgreen 20%);
   padding: 20px 20px;
-  margin: none;
+  margin: 10px;
 }
 main {
-background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+background-color: background: repeating-radial-gradient(pink, yellow, lightblue, 20%);
   padding: 20px 20px;
-  margin: none;
+  margin: 10px;
 }
  #H1 {
   font-color: darkpurple;
 }
 .feature {
-background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+background-color: background: repeating-radial-gradient(yellow, lightblue, lightgreen 20%);
   padding: 20px 20px;
-  margin: none;
+  margin: 10px;
 }
 .feature-right {
-background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+background-color: background: repeating-radial-gradient(pink, yellow, lightgreen 20%);
   padding: 20px 20px;
-  margin: none;
+  margin: px;
 }
 
