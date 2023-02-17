@@ -12,4 +12,7 @@ background-color: background: repeating-radial-gradient(pink, yellow, lightblue,
 .feature{
  background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
 }
+.feature-right{
+background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
+}
 
