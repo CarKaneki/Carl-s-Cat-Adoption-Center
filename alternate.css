@@ -1,6 +1,4 @@
- #H1 {
-  font-color: darkpurple;
-}
+
 body {
  background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
   padding: 20px 20px;
@@ -11,7 +9,9 @@ background-color: background: repeating-radial-gradient(pink, yellow, lightblue,
   padding: 20px 20px;
   margin: none;
 }
-
+ #H1 {
+  font-color: darkpurple;
+}
 .feature {
 background-color: background: repeating-radial-gradient(pink, yellow, lightblue, lightgreen 20%);
   padding: 20px 20px;
