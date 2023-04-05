@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <title>Adopt A Cat</title>
+      <link id='csslink' rel="stylesheet" href="main.css">
+       <script>
+	    function toggleCSS() {
+          // Obtains the <link> element that links to the css (by using its id).
+          var currentCSS = document.getElementById('csslink');
+
+          // Change the value of href attribute to change the css file.
+          if (currentCSS.getAttribute('href') == 'main.css') {
+            currentCSS.setAttribute('href', 'alternate.css');
+          } else {
+            currentCSS.setAttribute('href', 'main.css');
+          }
+      }
+  </script>
+   </head>
+   <body>
+      <header>
+         <h1 id="H1">Carl's Cat Adoption Center </h1>
+         <nav>
+            <ul>
+               <li><a href="index.html">Home</a></li>
+               <li><a href="adoptportal.html">Adoption Portal</a></li>
+               <li><a href="about.html">About</a></li>
+            </ul>
+         </nav>
+      </header>
+      <main>
+         <section class="feature">
+            <div class="flex-container">
+               <div class="feature-right">
+                  <p>
+                     <img src="Rainbow Cat.PNG" alt="RainbowCat">
+                  </p>
+                  <p>
+                     Adopt a Cat today and gain a new furry friend for life!!!
+                     Fun fact the NFT of this Cat better known as Nyan sold for over half a million<br>
+                     dollars!!!!!!!
+                     Unlike Nyan However adopting a real cat is only 15 dollars!! Also you can<br>
+                     actually pet the animal and give it love and affection!!!
+                  </p>
+               </div>
+            </div>
+         </section>
+         <section class="feature">
+            <div class="flex-container">
+               <div class="feature-right">
+                  <p>
+                  </p>
+                  <p>
+                     Follow us on our social media pages using facebook and instagram as well as our new tiktok account.
+                  </p>
+                  <a href="https://www.facebook.com" target="_blank">Facebook</a>
+                  <a href="https://www.Instagram.com" target="_blank">Instagram</a>
+                  <a href="https://www.Tiktok.com" target="_blank">Tiktok</a>
+               </div>
+               <button onclick="toggleCSS()">Switch Style</button>
+            </div>
+         </section>
+      </main>
+      <footer>
+         <p>
+            &copy; Carl's Cat Adoption Center 
+         </p>
+      </footer>
+   </body>
+</html>
